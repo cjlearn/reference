@@ -13,4 +13,5 @@
 - Effective Java
 - Refactoring: Improving the Design of Existing Code
 - Java Concurrency In Practice
+- Learn You a Haskell for Great Good
 
